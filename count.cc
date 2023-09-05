@@ -8,4 +8,5 @@ void count_number() {
 	
     }
     printf("2019313169\n");
+    /*new*/
 }
